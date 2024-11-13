@@ -10,19 +10,19 @@ This virtual network closely resembles a traditional network that you'd operate 
 
 
 
-![Create vpc button](images\vpc1.png)
+![](images\vpc1.png)
 
 **In vpc settings select following options**
 
-![select options](images\vpc2.png)
+![](images\vpc2.png)
 
 **click on createVPC button**
 
-![click on createvpc button](images\vpc3.png)
+![](images\vpc3.png)
 
 **After clicking on create vpc button vpc will be created with specifications like vpcid and vpc name etc**
 
-![vpc specifications](images\vpc4.png)
+![](images\vpc4.png)
 
 ### Step2: *Internet Gateway*
 
